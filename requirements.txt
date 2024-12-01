@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+groq
+langchain-groq
+langchain_community
+python-dotenv
+pymongo
+langchain_community
+qdrant-client
+langchain_google_genai
+bs4
